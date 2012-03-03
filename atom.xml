@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Beautiful Heart]]></title>
   <link href="http://jacksunsea.github.com/atom.xml" rel="self"/>
   <link href="http://jacksunsea.github.com/"/>
-  <updated>2012-03-03T19:36:03+08:00</updated>
+  <updated>2012-03-03T23:20:34+08:00</updated>
   <id>http://jacksunsea.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[林光海]]></name>
+    <email><![CDATA[jacksunsea@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[关于我]]></title>
+    <link href="http://jacksunsea.github.com/blog/2012/03/03/hello-world/"/>
+    <updated>2012-03-03T23:13:00+08:00</updated>
+    <id>http://jacksunsea.github.com/blog/2012/03/03/hello-world</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://hdn.xnimg.cn/photos/hdn421/20110528/0715/h_large_QV5N_4e7c000020e72f75.jpg" width="320" height="250" title="me #1" ></p>
+
+<blockquote><p>在短暂的生命里寻找永恒</p><footer><strong>Plato</strong> <cite>忘了</cite></footer></blockquote>
+
+
+<h1>Hello World</h1>
+
+<p>我是林光海,我是一个程序员.我热爱编程，音乐，幻想.
+生在沈阳，在大连长大，工作在北京。
+热爱函数式，喜欢研究Lisp,Scheme,Closure.对Ruby爱不释手,工作当中主要用C/C++和javascript还有php.</p>
+
+<p>被unix深深迷住了很多年，到现在还是一样，痛恨Windows
+玩过Java,看过python,最近在深入NoSql.业余时间喜欢看数学玩Arduino,只是最近荒废了。。  <br/>
+喜欢和人交流和一起玩关于编程方面的所有事物，不包括windows.</p>
+
+<p>这是我偶尔停下来整理自己思绪的地方，会谈关于所有我的所思所想，不只是编程。</p>
+
+<p>讨厌一切形式的教条主义和束缚，对于自由和分享无限渴望。当时机成熟一定会为开源软件贡献自己一份微薄的力量。尊重劳动人民，尊重所有弱势群体，尊重所有让这个世界变得更美好的人。</p>
+
+<p>我的理想：参与到用科技改变世界的洪流中，贡献自己的一份力量。当时光飞逝，我变成一个小老头了，我会去一个小城市义务教书，去教授孩子们基础的编程知识。让他们编程的快乐。</p>
+]]></content>
+  </entry>
   
 </feed>
